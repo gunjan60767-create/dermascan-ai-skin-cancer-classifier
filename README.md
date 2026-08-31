@@ -1,6 +1,6 @@
 # 🔬 DermaScan AI: Skin Cancer Diagnostic & Clinical Risk Classifier
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-NAME.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dermascan-ai-skin-cancer-classifier.streamlit.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An end-to-end Deep Learning Computer Vision web application built with **PyTorch**, **Vision Transformers (ViT-16)**, and **Streamlit**. The system detects and classifies 7 clinical skin lesion pathologies from dermatoscopic imagery and provides multi-class risk assessment stratification.
@@ -8,7 +8,7 @@ An end-to-end Deep Learning Computer Vision web application built with **PyTorch
 ---
 
 ## 🌐 Live Application
-👉 **[Click here to test the Live Demo](https://YOUR-APP-NAME.streamlit.app)**
+👉 **[Click here to test the Live Demo](https://dermascan-ai-skin-cancer-classifier.streamlit.app)**
 
 ---
 
